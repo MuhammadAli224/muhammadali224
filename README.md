@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm  Muhammad Ali<br><br>- 🔭 I’m working as Flutter Developer<br>- 📚 I'm currently learning Laravel and Rest API</p>
+<p align="left">I'm Mohammad Ali<br><br>- 🔭 I’m working as Flutter Developer And Laravel Backend Developer <br></p>
 
 ###
 
