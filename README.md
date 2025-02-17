@@ -1,6 +1,6 @@
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png"  />
@@ -90,6 +90,7 @@
 
 ###
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAli224)](https://git.io/streak-stats)
 <div align="center">
 <!--   <img src="https://streak-stats.demolab.com?user=muhammadali224&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MuhammadAli224&theme=dark" alt="GitHub Streak" /></a>
